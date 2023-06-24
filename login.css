@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: darkcyan;
+}
+.container{
+    margin-left: 40%;
+    padding-top: 15%;
+    
+    
+}
+
+#username{
+    margin-top: 5px;
+    width: 300px;
+    border: 2px solid black;
+    height: 35px;
+    
+}
+#username:focus{
+    color: white;
+}
+
+#labelpswd{
+    margin-top: 20px;
+}
+#password{
+    margin-top: 5px;
+   
+    width: 300px;
+    border: 2px solid black;
+    height: 35px;
+
+}
+#btn{
+    height: 35px;
+    margin-top: 10px;
+  width: 80px;
+  background-color: blue;
+  color: white;
+  border-radius: 2px;
+}
